@@ -241,7 +241,7 @@ LOGGING_DISABLED=true deno run --allow-net --allow-env src/main.ts
 
 最简单的部署方式是使用 Deno Deploy 官方平台：
 
-[![Deploy on Deno](https://deno.com/button)](https://console.deno.com/new?clone=https://github.com/your-username/b4u2cc)
+[![Deploy on Deno](https://deno.com/button)](https://console.deno.com/new?clone=https://github.com/llkj0001/b4u2cc)
 
 **优势**:
 - 无需管理服务器
